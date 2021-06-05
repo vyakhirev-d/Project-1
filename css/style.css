@@ -274,7 +274,7 @@ border-bottom: 1px solid #FEFEFE;
   width: 267px;
   margin-left: auto;
 }
-.video-popup{
+.benefits__video-popup{
   background-color: #C5AC2D;
   text-transform: uppercase;
   color: #fefefe;
@@ -282,7 +282,7 @@ border-bottom: 1px solid #FEFEFE;
   text-align: center;
   display: inline-block;
 }
-.video-popup::before{
+.benefits__video-popup::before{
   content: '';
   position: absolute;
   width: 25px;
